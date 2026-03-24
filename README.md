@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ramya+Radjesh+%F0%9F%91%8B;Cybersecurity+Graduate;VAPT+%7C+SOC+%7C+Network+Security;Always+learning%2C+always+hacking+%F0%9F%94%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Bonjour%2C+I'm+Ramya+Radjesh+%F0%9F%91%8B;Cybersecurity+Graduate;VAPT+%7C+SOC+%7C+Network+Security;Always+learning%2C+always+hacking+%F0%9F%94%90)](https://git.io/typing-svg)
 <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramya-radjesh/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramyaradjesh/)
