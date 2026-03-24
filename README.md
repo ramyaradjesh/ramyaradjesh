@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```yaml
 Name        : Ramya Radjesh
@@ -34,7 +34,7 @@ Languages   : English (C1) · Tamil (Native) · French (B1)
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 <table>
 <tr>
@@ -63,7 +63,7 @@ Languages   : English (C1) · Tamil (Native) · French (B1)
 
 ---
 
-## 🚀 Currently Working On
+##  Currently Working On
 
 | 🔬 Project | 📝 Description | 🏷️ Stack |
 |---|---|---|
@@ -78,7 +78,7 @@ Languages   : English (C1) · Tamil (Native) · French (B1)
 <tr>
 <td width="50%">
 
-### 🐳 Docker Challenges — Pentest Report
+###  Docker Challenges — Pentest Report
 Solved 10 Docker-based security challenges. Set up DVWA container environment, conducted structured penetration tests and documented all findings.
 
 [![Repo](https://img.shields.io/badge/GitHub-Docker--Pentest-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/Docker-challenges---Pentest-Report)
@@ -100,7 +100,7 @@ Port/service enumeration, OS discovery, vulnerability scanning across networking
 <tr>
 <td width="50%">
 
-### 🌐 Web-Based VAPT
+###  Web-Based VAPT
 Identified and exploited IDOR, XSS → JWT token theft, and API flaws. Methodology covered passive recon, credential analysis & privilege escalation.
 
 [![Repo](https://img.shields.io/badge/GitHub-Web--VAPT-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/Web---based-VAPT-)
@@ -123,7 +123,7 @@ Documenting TryHackMe room solutions and cybersecurity walkthroughs.
 
 ---
 
-## 📚 Academic Projects
+##  Academic Projects
 
 | # | 🗂️ Project | 📋 Description | 🏷️ Tags |
 |:---:|---|---|---|
@@ -135,7 +135,7 @@ Documenting TryHackMe room solutions and cybersecurity walkthroughs.
 
 ---
 
-## 🧰 Tech Stack & Skills
+##  Tech Stack & Skills
 
 ### 🛡️ Security & Tools
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -163,7 +163,7 @@ Documenting TryHackMe room solutions and cybersecurity walkthroughs.
 
 ---
 
-## 🎓 Education
+## ⭐️ Education
 
 | 🎓 Degree | 🏫 Institution | 📅 Duration |
 |---|---|---|
@@ -172,7 +172,7 @@ Documenting TryHackMe room solutions and cybersecurity walkthroughs.
 
 ---
 
-## 🎯 Open to Roles
+## 🙋🏻‍♀️ Open to Roles
 
 <div align="center">
 
@@ -186,18 +186,18 @@ Documenting TryHackMe room solutions and cybersecurity walkthroughs.
 
 ---
 
-## 📬 Get In Touch
+## 🤘🏽🤗 Get In Touch
 
 <div align="center">
 
 | Platform | Link |
 |:---:|:---:|
-| 📧 Email | ramyaradjesh1@gmail.com |
-| 💼 LinkedIn | [linkedin.com/in/ramya-radjesh](https://www.linkedin.com/in/ramya-radjesh/) |
-| 🐙 GitHub | [github.com/ramyaradjesh](https://github.com/ramyaradjesh/) |
-| ✍️ Medium | [medium.com/@ramya15112000](https://medium.com/@ramya15112000) |
-| 🔴 Reddit | [Novel_Throat3177](https://www.reddit.com/user/Novel_Throat3177/) |
-| 🔐 TryHackMe | [tryhackme.com/p/ramyaradjesh](https://tryhackme.com/p/ramyaradjesh) |
+|  Email | ramyaradjesh1@gmail.com |
+|  LinkedIn | [linkedin.com/in/ramya-radjesh](https://www.linkedin.com/in/ramya-radjesh/) |
+|  GitHub | [github.com/ramyaradjesh](https://github.com/ramyaradjesh/) |
+|  Medium | [medium.com/@ramya15112000](https://medium.com/@ramya15112000) |
+|  Reddit | [Novel_Throat3177](https://www.reddit.com/user/Novel_Throat3177/) |
+|  TryHackMe | [tryhackme.com/p/ramyaradjesh](https://tryhackme.com/p/ramyaradjesh) |
 
 </div>
 
