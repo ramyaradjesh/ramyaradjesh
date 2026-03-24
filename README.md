@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/ramyaradjesh/ramyaradjesh/main/Untitled_design.png" width="100%" alt="Ramya Radjesh Banner" />
+
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ramya+Radjesh+%F0%9F%91%8B;Cybersecurity+Graduate;VAPT+%7C+SOC+%7C+Network+Security;Always+learning%2C+always+hacking+%F0%9F%94%90)](https://git.io/typing-svg)
 <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramya-radjesh/)
@@ -205,8 +209,6 @@ Documenting TryHackMe room solutions and cybersecurity walkthroughs.
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ramyaradjesh/ramyaradjesh/output/github-contribution-grid-snake-dark.svg)
-<br/>
 *⭐ If you find my work useful, consider giving a star to my repos!*
 
 **🔐 Securing systems · Detecting threats · Learning daily**
