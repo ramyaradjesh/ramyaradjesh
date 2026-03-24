@@ -72,7 +72,7 @@ Languages   : English (C1) · Tamil (Native) · French (B1)
 
 ---
 
-## 🛠️ Personal Projects
+## 💛 Personal Projects
 
 <table>
 <tr>
@@ -167,7 +167,7 @@ Documenting TryHackMe room solutions and cybersecurity walkthroughs.
 
 | 🎓 Degree | 🏫 Institution | 📅 Duration |
 |---|---|---|
-| **MS Computer Security** | EPITA — École Pour l'Informatique et les Techniques Avancées · Paris, France | Sept 2022 – March 2024 |
+| **MS Computer Security** | EPITA — École Pour l'Informatique et les Techniques Avancées · Paris, France | Sept 2022 – April 2025 |
 | **B.Tech Computer Science Engineering** | Sri Manakula Vinayagar Engineering College · Puducherry, India | August 2018 – April 2022 |
 
 ---
