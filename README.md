@@ -205,7 +205,6 @@ Documenting TryHackMe room solutions and cybersecurity walkthroughs.
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ramyaradjesh/ramyaradjesh/output/github-contribution-grid-snake-dark.svg)
 <br/>
 *⭐ If you find my work useful, consider giving a star to my repos!*
 
