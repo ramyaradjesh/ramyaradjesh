@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Ramya Radjesh Cybersecurity Logo" width="180" />
 
 <br/>
 
