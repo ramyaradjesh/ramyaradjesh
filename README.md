@@ -1,14 +1,22 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Bonjour%2C+I'm+Ramya+Radjesh+%F0%9F%91%8B;Cybersecurity+Graduate;VAPT+%7C+SOC+%7C+Network+Security;Always+learning%2C+always+hacking+%F0%9F%94%90)](https://git.io/typing-svg)
+<img src="assets/logo.png" alt="Ramya Radjesh Cybersecurity Logo" width="180" />
+
 <br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Bonjour%2C+I'm+Ramya+Radjesh+%F0%9F%91%8B;Cybersecurity+Graduate;VAPT+%7C+SOC+%7C+Network+Security;Always+learning%2C+always+hacking+%F0%9F%94%90)](https://git.io/typing-svg)
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramya-radjesh/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramyaradjesh/)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ramya15112000)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Novel_Throat3177/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ramyaradjesh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300e5a0.svg?style=for-the-badge&logo=firefox&logoColor=black)](https://ramyaradjesh.github.io)
+
 <br/>
+
 ![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-00e5a0?style=for-the-badge)
 ![Open to Travel](https://img.shields.io/badge/Availability-Open%20to%20Travel-blue?style=for-the-badge)
 
@@ -34,14 +42,16 @@ Languages   : English (C1) · Tamil (Native) · French (B1)
 
 ---
 
-##  Work Experience
+## Work Experience
 
 <table>
 <tr>
 <td width="70%">
 
-### 🟠 Developer — Security Policy Research (eBPF)
+### <img src="assets/orange-logo.png" alt="Orange" width="28" style="vertical-align:middle; margin-right:6px"/> Developer — Security Policy Research (eBPF)
+
 **Orange Innovation** · Data Privacy & Innovation Team · Châtillon, Paris · *Internship*
+
 `Feb 2024 – Jul 2024`
 
 - Researched **eBPF** integration in Android mobile security
@@ -63,7 +73,7 @@ Languages   : English (C1) · Tamil (Native) · French (B1)
 
 ---
 
-##  Currently Working On
+## Currently Working On
 
 | 🔬 Project | 📝 Description | 🏷️ Stack |
 |---|---|---|
@@ -78,7 +88,7 @@ Languages   : English (C1) · Tamil (Native) · French (B1)
 <tr>
 <td width="50%">
 
-###  Docker Challenges — Pentest Report
+### Docker Challenges — Pentest Report
 Solved 10 Docker-based security challenges. Set up DVWA container environment, conducted structured penetration tests and documented all findings.
 
 [![Repo](https://img.shields.io/badge/GitHub-Docker--Pentest-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/Docker-challenges---Pentest-Report)
@@ -100,7 +110,7 @@ Port/service enumeration, OS discovery, vulnerability scanning across networking
 <tr>
 <td width="50%">
 
-###  Web-Based VAPT
+### Web-Based VAPT
 Identified and exploited IDOR, XSS → JWT token theft, and API flaws. Methodology covered passive recon, credential analysis & privilege escalation.
 
 [![Repo](https://img.shields.io/badge/GitHub-Web--VAPT-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/Web---based-VAPT-)
@@ -123,7 +133,7 @@ Documenting TryHackMe room solutions and cybersecurity walkthroughs.
 
 ---
 
-##  Academic Projects
+## Academic Projects
 
 | # | 🗂️ Project | 📋 Description | 🏷️ Tags |
 |:---:|---|---|---|
@@ -135,7 +145,7 @@ Documenting TryHackMe room solutions and cybersecurity walkthroughs.
 
 ---
 
-##  Tech Stack & Skills
+## Tech Stack & Skills
 
 ### 🛡️ Security & Tools
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -192,20 +202,20 @@ Documenting TryHackMe room solutions and cybersecurity walkthroughs.
 
 | Platform | Link |
 |:---:|:---:|
-|  Email | ramyaradjesh1@gmail.com |
-|  LinkedIn | [linkedin.com/in/ramya-radjesh](https://www.linkedin.com/in/ramya-radjesh/) |
-|  GitHub | [github.com/ramyaradjesh](https://github.com/ramyaradjesh/) |
-|  Medium | [medium.com/@ramya15112000](https://medium.com/@ramya15112000) |
-|  Reddit | [Novel_Throat3177](https://www.reddit.com/user/Novel_Throat3177/) |
-|  TryHackMe | [tryhackme.com/p/ramyaradjesh](https://tryhackme.com/p/ramyaradjesh) |
+| Email | ramyaradjesh1@gmail.com |
+| LinkedIn | [linkedin.com/in/ramya-radjesh](https://www.linkedin.com/in/ramya-radjesh/) |
+| GitHub | [github.com/ramyaradjesh](https://github.com/ramyaradjesh/) |
+| Medium | [medium.com/@ramya15112000](https://medium.com/@ramya15112000) |
+| Reddit | [Novel_Throat3177](https://www.reddit.com/user/Novel_Throat3177/) |
+| TryHackMe | [tryhackme.com/p/ramyaradjesh](https://tryhackme.com/p/ramyaradjesh) |
 
 </div>
 
 ---
 
 <div align="center">
-
 <br/>
+
 *⭐ If you find my work useful, consider giving a star to my repos!*
 
 **🔐 Securing systems · Detecting threats · Learning daily**
