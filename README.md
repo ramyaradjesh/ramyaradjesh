@@ -72,10 +72,7 @@
 - 🛡️ Designed & implemented **BPFroid** — a novel mobile malware detection framework using eBPF
 - 🔍 Assessed OS-level compatibility and explored proof-of-concept credential-based threat detection
 
-![eBPF](https://img.shields.io/badge/eBPF-gray?style=flat-square)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Security Research](https://img.shields.io/badge/Security%20Research-00e5a0?style=flat-square)
+`eBPF` `Android` `Linux` `Security Research`
 
 ---
 
@@ -92,10 +89,7 @@
 
 Two-layer threat detection engine: local **signature/hash matching** + live **VirusTotal cloud intelligence**. Detects, flags, and reports malicious files — mimicking core production AV logic.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![VirusTotal](https://img.shields.io/badge/VirusTotal%20API-394EFF?style=flat-square)
-![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-red?style=flat-square)
-![Threat Detection](https://img.shields.io/badge/Threat%20Detection-00e5a0?style=flat-square)
+`Python` `VirusTotal API` `Malware Analysis` `Threat Detection`
 
 [![View Repo](https://img.shields.io/badge/GitHub-Antivirus--Simulation-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/Antivirus-Simulation)
 
@@ -107,10 +101,7 @@ Two-layer threat detection engine: local **signature/hash matching** + live **Vi
 
 Ubuntu-based SOC lab: **Wazuh SIEM** for centralised logging, **Cowrie SSH honeypot** for attacker trapping, and **auditd** for endpoint monitoring. Custom detection rules + attack simulations mapped to MITRE ATT&CK.
 
-![Wazuh](https://img.shields.io/badge/Wazuh-00A9CE?style=flat-square)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E32426?style=flat-square)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![SOC](https://img.shields.io/badge/SOC-blue?style=flat-square)
+`Wazuh` `MITRE ATT&CK` `Ubuntu` `SOC`
 
 </td>
 </tr>
@@ -122,9 +113,7 @@ Ubuntu-based SOC lab: **Wazuh SIEM** for centralised logging, **Cowrie SSH honey
 
 SOC simulation detecting real-world attacks: **database exfiltration**, credential theft, insider enumeration. Custom rules, active response, and full incident timelines documented.
 
-![Wazuh](https://img.shields.io/badge/Wazuh-00A9CE?style=flat-square)
-![SIEM/XDR](https://img.shields.io/badge/SIEM/XDR-00e5a0?style=flat-square)
-![Incident Response](https://img.shields.io/badge/Incident%20Response-blue?style=flat-square)
+`Wazuh` `SIEM/XDR` `Incident Response`
 
 [![View Repo](https://img.shields.io/badge/GitHub-Wazuh--Threat--Detection-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/Wazuh-Threat-detection-Project)
 
@@ -136,10 +125,7 @@ SOC simulation detecting real-world attacks: **database exfiltration**, credenti
 
 Mapping eBPF abuse for **stealth, persistence & privilege escalation** across Linux, containers & cloud-native. Building attack taxonomy: rootkit behaviours, verifier-bypass CVEs, and CAP_BPF/CAP_PERFMON hardening defences.
 
-![eBPF](https://img.shields.io/badge/eBPF-gray?style=flat-square)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![CVE Research](https://img.shields.io/badge/CVE%20Research-red?style=flat-square)
-![Cloud Security](https://img.shields.io/badge/Cloud%20Security-00e5a0?style=flat-square)
+`eBPF` `Kubernetes` `CVE Research` `Cloud Security`
 
 </td>
 </tr>
@@ -156,10 +142,7 @@ Mapping eBPF abuse for **stealth, persistence & privilege escalation** across Li
 ### 🐳 Docker Challenges — Pentest Report
 Solved **10 Docker-based security challenges**. Built a DVWA container environment, ran structured penetration tests, and documented all findings professionally.
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![DVWA](https://img.shields.io/badge/DVWA-red?style=flat-square)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Pentest](https://img.shields.io/badge/Penetration%20Testing-00e5a0?style=flat-square)
+`Docker` `DVWA` `Kali Linux` `Penetration Testing`
 
 [![View Repo](https://img.shields.io/badge/GitHub-Docker--Pentest-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/Docker-challenges---Pentest-Report)
 
@@ -169,10 +152,7 @@ Solved **10 Docker-based security challenges**. Built a DVWA container environme
 ### 🔍 VAPT — Vulnerability Assessment & Pentest
 Full-scope VA: **port/service enumeration**, OS discovery, vulnerability scanning across networking layers, and web server assessment with severity-rated documentation.
 
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
-![Port Scanning](https://img.shields.io/badge/Port%20Scanning-00e5a0?style=flat-square)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-blue?style=flat-square)
+`Nmap` `Port Scanning` `Kali Linux` `Networking`
 
 [![View Repo](https://img.shields.io/badge/GitHub-VAPT-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/VAPT)
 
@@ -184,10 +164,7 @@ Full-scope VA: **port/service enumeration**, OS discovery, vulnerability scannin
 ### 🌐 Web-Based VAPT
 Identified & exploited **IDOR, XSS → JWT token theft**, and API flaws. Methodology: passive recon, credential analysis, privilege escalation — full OWASP Top 10 coverage.
 
-![XSS](https://img.shields.io/badge/XSS-red?style=flat-square)
-![IDOR](https://img.shields.io/badge/IDOR-orange?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-purple?style=flat-square)
-![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square)
+`XSS` `IDOR` `JWT` `OWASP Top 10`
 
 [![View Repo](https://img.shields.io/badge/GitHub-Web--VAPT-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/Web---based-VAPT-)
 
@@ -197,9 +174,7 @@ Identified & exploited **IDOR, XSS → JWT token theft**, and API flaws. Methodo
 ### ✍️ CTF Write-Ups on Medium
 Documenting TryHackMe room solutions & cybersecurity walkthroughs — methodology, tools, and key takeaways for the community.
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
-![CTF](https://img.shields.io/badge/CTF%20Writeups-00e5a0?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium)
+`TryHackMe` `CTF Write-Ups` `Medium`
 
 [![Read on Medium](https://img.shields.io/badge/Medium-@ramya15112000-000000?style=flat-square&logo=medium)](https://medium.com/@ramya15112000)
 
@@ -234,10 +209,7 @@ Documenting TryHackMe room solutions & cybersecurity walkthroughs — methodolog
 <td width="50%" valign="top">
 
 #### 💳 Billing — TryHackMe
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Privilege Escalation](https://img.shields.io/badge/Privilege%20Escalation-red?style=flat-square)
-![SUID](https://img.shields.io/badge/SUID%20Exploitation-orange?style=flat-square)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+`Linux` `Privilege Escalation` `SUID Exploitation` `TryHackMe`
 
 Billing system vulnerability room. Covers **service enumeration**, SUID binary privilege escalation, and flag extraction through system misconfigurations on a realistic Linux target.
 
@@ -247,10 +219,7 @@ Billing system vulnerability room. Covers **service enumeration**, SUID binary p
 <td width="50%" valign="top">
 
 #### 🕵️ Disgruntled — Linux Forensic Investigation
-![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-blue?style=flat-square)
-![Insider Threat](https://img.shields.io/badge/Insider%20Threat-red?style=flat-square)
-![Log Analysis](https://img.shields.io/badge/Log%20Analysis-00e5a0?style=flat-square)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+`Digital Forensics` `Insider Threat` `Log Analysis` `TryHackMe`
 
 Insider threat simulation. **Bash history, cron job, and log analysis** to reconstruct a full attacker timeline from artefacts left on a compromised Linux system.
 
@@ -262,10 +231,7 @@ Insider threat simulation. **Bash history, cron job, and log analysis** to recon
 <td width="50%" valign="top">
 
 #### 🥒 Pickle Rick — TryHackMe
-![Web Exploitation](https://img.shields.io/badge/Web%20Exploitation-orange?style=flat-square)
-![Command Injection](https://img.shields.io/badge/Command%20Injection-red?style=flat-square)
-![Enumeration](https://img.shields.io/badge/Enumeration-blue?style=flat-square)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+`Web Exploitation` `Command Injection` `Enumeration` `TryHackMe`
 
 Web exploitation room. **Directory & source-code enumeration**, command injection via web panel, and chained privilege escalation to retrieve all 3 hidden flags.
 
@@ -275,10 +241,7 @@ Web exploitation room. **Directory & source-code enumeration**, command injectio
 <td width="50%" valign="top">
 
 #### 🔎 Déjà Vu — TryHackMe
-![OSINT](https://img.shields.io/badge/OSINT-purple?style=flat-square)
-![Geolocation](https://img.shields.io/badge/Geolocation-00e5a0?style=flat-square)
-![Metadata](https://img.shields.io/badge/Metadata%20Analysis-blue?style=flat-square)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+`OSINT` `Geolocation` `Metadata Analysis` `TryHackMe`
 
 OSINT investigation room. **Reverse image search, metadata extraction, and geolocation** to piece together a narrative and uncover hidden details across public sources.
 
@@ -298,35 +261,17 @@ OSINT investigation room. **Reverse image search, metadata extraction, and geolo
 
 ## 🛠️ Tech Stack & Skills
 
-<div align="center">
+**🛡️ Security & Tools**
+Kali Linux · Wireshark · Nmap · Splunk · Wazuh · Burp Suite
 
-### 🛡️ Security & Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-00A9CE?style=for-the-badge&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
+**☁️ Infrastructure & Platforms**
+Docker · Kubernetes · Linux · Ubuntu · Cisco Packet Tracer
 
-### ☁️ Infrastructure & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+**📋 Frameworks & Standards**
+OWASP Top 10 · MITRE ATT&CK · ISO 27001 · NIST · GDPR
 
-### 📋 Frameworks & Standards
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E32426?style=for-the-badge&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-0099CC?style=for-the-badge&logoColor=white)
-![NIST](https://img.shields.io/badge/NIST-003087?style=for-the-badge&logoColor=white)
-![GDPR](https://img.shields.io/badge/GDPR-003087?style=for-the-badge&logoColor=white)
-
-### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-</div>
+**💻 Languages & Scripting**
+Python · Bash
 
 ---
 
@@ -363,11 +308,7 @@ Focus: Network Security · VAPT · Digital Forensics · eBPF · Cryptography
 
 <div align="center">
 
-![SOC Analyst L1](https://img.shields.io/badge/SOC_Analyst_L1-00e5a0?style=for-the-badge&labelColor=0d1117)
-![Cybersecurity Analyst](https://img.shields.io/badge/Cybersecurity_Analyst-00e5a0?style=for-the-badge&labelColor=0d1117)
-![Network Engineer L1](https://img.shields.io/badge/Network_Engineer_L1-00e5a0?style=for-the-badge&labelColor=0d1117)
-![Vulnerability Analyst](https://img.shields.io/badge/Vulnerability_Analyst-00e5a0?style=for-the-badge&labelColor=0d1117)
-![Information Security Analyst](https://img.shields.io/badge/Information_Security_Analyst-00e5a0?style=for-the-badge&labelColor=0d1117)
+SOC Analyst L1 &nbsp;·&nbsp; Cybersecurity Analyst &nbsp;·&nbsp; Network Engineer L1 &nbsp;·&nbsp; Vulnerability Analyst &nbsp;·&nbsp; Information Security Analyst
 
 </div>
 
