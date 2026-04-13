@@ -286,7 +286,6 @@ Python · Bash
 
 ![Duration](https://img.shields.io/badge/Sept%202022%20–%20April%202025-0077B5?style=flat-square)
 
-Focus: Network Security · VAPT · Digital Forensics · eBPF · Cryptography
 
 </td>
 </tr>
