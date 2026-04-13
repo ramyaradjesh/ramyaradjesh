@@ -72,12 +72,14 @@ Languages   : English (C1) · Tamil (Native) · French (B1)
 
 ---
 
-## Currently Working On
+## 🔬 Currently Working On
 
 | 🔬 Project | 📝 Description | 🏷️ Stack |
 |---|---|---|
-| **eBPF Threat Atlas** | Mapping eBPF abuse for stealth, persistence & privilege escalation across Linux, containers & cloud-native. Building attack taxonomy + defenses. | `eBPF` `Linux Kernel` `Kubernetes` `CVE Research` `Cloud Security` |
-| **WAZUH — Threat Detection** | Deploying and configuring Wazuh SIEM for threat detection, log analysis & security monitoring. Rule tuning, agent deployment & alerting pipelines. | `Wazuh` `SIEM` `Threat Detection` `Log Analysis` `SOC/NOC` |
+| **Antivirus Simulation — Signature Scanner + VirusTotal** | Python project demonstrating two-layer threat detection: local signature/hash matching AND live VirusTotal cloud intelligence. Detects, flags, and reports malicious files — mimicking core production AV engine logic. | `Python` `VirusTotal API` `Signature Detection` `Malware Analysis` `Threat Detection` |
+| **SOC Home Lab — Honeypot & MITRE ATT&CK Mapping** | Ubuntu-based SOC home lab with Wazuh SIEM for centralised logging/alerting, Cowrie SSH honeypot for attacker trapping, and auditd for endpoint monitoring. Custom detection rules, active response, and attack simulations mapped to MITRE ATT&CK. | `Wazuh SIEM` `Cowrie Honeypot` `MITRE ATT&CK` `Ubuntu` `auditd` `SOC` |
+| **Wazuh Threat Detection Lab** | Lab-based SOC simulation using Wazuh SIEM/XDR to detect real-world attack scenarios including database exfiltration, credential theft, and insider enumeration. Custom rules, active response, and full incident timelines documented. | `Wazuh` `SIEM` `XDR` `SOC` `Threat Detection` `Incident Response` `Log Analysis` |
+| **eBPF Threat Atlas** | Mapping eBPF abuse for stealth, persistence & privilege escalation across Linux, containers & cloud-native. Building attack taxonomy covering rootkit behaviours and verifier-bypass CVEs, paired with CAP_BPF/CAP_PERFMON hardening defences. | `eBPF` `Linux Kernel` `Kubernetes` `CVE Research` `Cloud Security` |
 
 ---
 
@@ -87,7 +89,7 @@ Languages   : English (C1) · Tamil (Native) · French (B1)
 <tr>
 <td width="50%">
 
-### Docker Challenges — Pentest Report
+### 🐳 Docker Challenges — Pentest Report
 Solved 10 Docker-based security challenges. Set up DVWA container environment, conducted structured penetration tests and documented all findings.
 
 [![Repo](https://img.shields.io/badge/GitHub-Docker--Pentest-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/Docker-challenges---Pentest-Report)
@@ -109,7 +111,7 @@ Port/service enumeration, OS discovery, vulnerability scanning across networking
 <tr>
 <td width="50%">
 
-### Web-Based VAPT
+### 🌐 Web-Based VAPT
 Identified and exploited IDOR, XSS → JWT token theft, and API flaws. Methodology covered passive recon, credential analysis & privilege escalation.
 
 [![Repo](https://img.shields.io/badge/GitHub-Web--VAPT-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/Web---based-VAPT-)
@@ -119,12 +121,32 @@ Identified and exploited IDOR, XSS → JWT token theft, and API flaws. Methodolo
 </td>
 <td width="50%">
 
-### ✍️ CTF Writeups on Medium
-Documenting TryHackMe room solutions and cybersecurity walkthroughs.
+### 🦠 Antivirus Simulation — Signature Scanner + VirusTotal
+Python-based AV simulation with two-layer detection: local signature/hash scanning and real-time VirusTotal API lookups to detect, flag, and report malicious files.
 
-[![Medium](https://img.shields.io/badge/Medium-Writeups-000000?style=flat-square&logo=medium)](https://medium.com/@ramya15112000)
+[![Repo](https://img.shields.io/badge/GitHub-Antivirus--Simulation-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/Antivirus-Simulation)
 
-`TryHackMe` `CTF` `Writeups` `Walkthroughs`
+`Python` `VirusTotal API` `Signature Detection` `Malware Analysis`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏠 SOC Home Lab — Honeypot & MITRE ATT&CK Mapping
+Ubuntu-based SOC home lab with Wazuh SIEM, Cowrie SSH honeypot, and auditd. Custom detection rules, active response, and attack simulations mapped to MITRE ATT&CK.
+
+`Wazuh` `Cowrie` `MITRE ATT&CK` `Ubuntu` `SOC` `Threat Detection`
+
+</td>
+<td width="50%">
+
+### 🛡️ Wazuh Threat Detection Lab
+SOC simulation using Wazuh SIEM/XDR to detect database exfiltration, credential theft, and insider enumeration. Full incident timelines documented.
+
+[![Repo](https://img.shields.io/badge/GitHub-Wazuh--Lab-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/Wazuh-Threat-detection-Project)
+
+`Wazuh` `SIEM` `XDR` `SOC` `Incident Response`
 
 </td>
 </tr>
@@ -141,6 +163,21 @@ Documenting TryHackMe room solutions and cybersecurity walkthroughs.
 | 03 | **Web Application Security Audit** | CWE-based vulnerability identification & risk scoring on an e-commerce platform | `OWASP Top 10` `VAPT` `CWE` |
 | 04 | **Software & Database Audit** | CWE classification of vulnerabilities across software & database systems | `CWE` `Database Security` `Auditing` |
 | 05 | **Password Manager Tool** | Secure credential storage using Fernet encryption and salting | `Python` `Cryptography` `Fernet` `Salting` |
+
+---
+
+## ✍️ Medium — CTF Write-Ups
+
+> Detailed walkthroughs of TryHackMe rooms and CTF challenges — documenting methodology, tools, and key takeaways.
+
+| 📝 Write-Up | 🏷️ Category | 📋 Description | 🔗 Link |
+|---|---|---|---|
+| **Billing — TryHackMe** | `Linux` `Privilege Escalation` | Billing system vulnerability walkthrough: service enumeration, SUID binary privilege escalation, and flag extraction via system misconfigurations. | [Read →](https://medium.com/@ramya15112000/billing-tryhackme-ramya-radjesh-2fa9fc362f08) |
+| **Disgruntled — Linux Forensic Investigation** | `Digital Forensics` `Insider Threat` | Insider threat simulation: bash history analysis, cron job inspection, log investigation, and full attacker timeline reconstruction from Linux artefacts. | [Read →](https://medium.com/@ramya15112000/disgruntled-linux-forensic-investigation-ramya-radjesh-thm-bedd4114a34b) |
+| **Pickle Rick — TryHackMe** | `Web Exploitation` `Command Injection` | Web exploitation room: directory & source-code enumeration, command injection via web panel, and chained privilege escalation to retrieve all hidden flags. | [Read →](https://medium.com/@ramya15112000/pickle-rick-tryhackme-ramya-radjesh-4897f092923a) |
+| **Déjà Vu — TryHackMe** | `OSINT` `Geolocation` | OSINT investigation room: reverse image search, metadata extraction, and geolocation techniques to uncover hidden details across multiple public sources. | [Read →](https://medium.com/@ramya15112000/tryhackme-d%C3%A9j%C3%A0-vu-ramya-radjesh-bf05c5dbf41d) |
+
+[![View All on Medium](https://img.shields.io/badge/View%20All%20Write--Ups%20on%20Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ramya15112000)
 
 ---
 
