@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Ramya%20Radjesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Graduate%20%7C%20VAPT%20%C2%B7%20SOC%20%C2%B7%20eBPF%20%C2%B7%20Digital%20Forensics&descAlignY=60&descColor=e0d7ff&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:38BDF8&height=200&section=header&text=Ramya%20Radjesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Graduate%20%7C%20VAPT%20%C2%B7%20SOC%20%C2%B7%20eBPF%20%C2%B7%20Digital%20Forensics&descAlignY=60&descColor=e0d7ff&animation=fadeIn" alt="header"/>
 
 <br/>
 
@@ -344,7 +344,7 @@ SOC Analyst L1 &nbsp;·&nbsp; Cybersecurity Analyst &nbsp;·&nbsp; Network Engin
 ---
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&text=🔐+Securing+systems+·+Detecting+threats+·+Learning+daily&fontSize=14&fontColor=e0d7ff&fontAlignY=65" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:A855F7,100:7C3AED&height=120&section=footer&text=🔐+Securing+systems+·+Detecting+threats+·+Learning+daily&fontSize=14&fontColor=ffffff&fontAlignY=65" alt="footer"/>
 
 <div align="center">
 
