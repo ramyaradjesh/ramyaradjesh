@@ -6,11 +6,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00e5a0&height=200&section=header&text=Ramya%20Radjesh&fontSize=52&fontColor=04080f&fontAlignY=38&desc=Cybersecurity%20Graduate%20%7C%20VAPT%20%C2%B7%20SOC%20%C2%B7%20eBPF%20%C2%B7%20Digital%20Forensics&descAlignY=60&descColor=04080f&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Ramya%20Radjesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Graduate%20%7C%20VAPT%20%C2%B7%20SOC%20%C2%B7%20eBPF%20%C2%B7%20Digital%20Forensics&descAlignY=60&descColor=e0d7ff&animation=fadeIn" alt="header"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5A0&center=true&vCenter=true&width=750&lines=🔐+Securing+systems+·+Detecting+threats+·+Learning+daily;VAPT+|+SOC+|+Network+Security+|+eBPF+Research;MS+Computer+Security+—+EPITA%2C+Paris;Always+learning%2C+always+hacking+🔐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=🔐+Securing+systems+·+Detecting+threats+·+Learning+daily;VAPT+|+SOC+|+Network+Security+|+eBPF+Research;MS+Computer+Security+—+EPITA%2C+Paris;Always+learning%2C+always+hacking+🔐)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,15 +20,15 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ramya15112000)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ramyaradjesh)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Novel_Throat3177/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00e5a0?style=for-the-badge&logo=firefox&logoColor=black)](https://ramyaradjesh.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://ramyaradjesh.github.io)
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/🟢_Status-Open%20to%20Work-00e5a0?style=flat-square&labelColor=0d1117)
+![Open to Work](https://img.shields.io/badge/🟢_Status-Open%20to%20Work-7C3AED?style=flat-square&labelColor=0d1117)
 &nbsp;
-![Open to Travel](https://img.shields.io/badge/✈️_Availability-Open%20to%20Travel-0077B5?style=flat-square&labelColor=0d1117)
+![Open to Travel](https://img.shields.io/badge/✈️_Availability-Open%20to%20Travel-38BDF8?style=flat-square&labelColor=0d1117)
 &nbsp;
-![Location](https://img.shields.io/badge/📍_Based-Paris%2C%20France-ff5200?style=flat-square&labelColor=0d1117)
+![Location](https://img.shields.io/badge/📍_Based-Paris%2C%20France-A78BFA?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -84,18 +84,6 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🦠 Antivirus Simulation
-**Signature Scanner + VirusTotal**
-
-Two-layer threat detection engine: local **signature/hash matching** + live **VirusTotal cloud intelligence**. Detects, flags, and reports malicious files — mimicking core production AV logic.
-
-`Python` `VirusTotal API` `Malware Analysis` `Threat Detection`
-
-[![View Repo](https://img.shields.io/badge/GitHub-Antivirus--Simulation-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/Antivirus-Simulation)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🏠 SOC Home Lab
 **Honeypot & MITRE ATT&CK Mapping**
 
@@ -104,8 +92,6 @@ Ubuntu-based SOC lab: **Wazuh SIEM** for centralised logging, **Cowrie SSH honey
 `Wazuh` `MITRE ATT&CK` `Ubuntu` `SOC`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ Wazuh Threat Detection Lab
@@ -118,6 +104,8 @@ SOC simulation detecting real-world attacks: **database exfiltration**, credenti
 [![View Repo](https://img.shields.io/badge/GitHub-Wazuh--Threat--Detection-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/Wazuh-Threat-detection-Project)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔭 eBPF Threat Atlas
@@ -139,6 +127,18 @@ Mapping eBPF abuse for **stealth, persistence & privilege escalation** across Li
 <tr>
 <td width="50%" valign="top">
 
+### 🦠 Antivirus Simulation
+**Signature Scanner + VirusTotal**
+
+Two-layer threat detection engine: local **signature/hash matching** + live **VirusTotal cloud intelligence**. Detects, flags, and reports malicious files — mimicking core production AV logic.
+
+`Python` `VirusTotal API` `Malware Analysis` `Threat Detection`
+
+[![View Repo](https://img.shields.io/badge/GitHub-Antivirus--Simulation-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/Antivirus-Simulation)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🐳 Docker Challenges — Pentest Report
 Solved **10 Docker-based security challenges**. Built a DVWA container environment, ran structured penetration tests, and documented all findings professionally.
 
@@ -147,6 +147,8 @@ Solved **10 Docker-based security challenges**. Built a DVWA container environme
 [![View Repo](https://img.shields.io/badge/GitHub-Docker--Pentest-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/Docker-challenges---Pentest-Report)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔍 VAPT — Vulnerability Assessment & Pentest
@@ -157,8 +159,6 @@ Full-scope VA: **port/service enumeration**, OS discovery, vulnerability scannin
 [![View Repo](https://img.shields.io/badge/GitHub-VAPT-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/VAPT)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🌐 Web-Based VAPT
@@ -169,6 +169,8 @@ Identified & exploited **IDOR, XSS → JWT token theft**, and API flaws. Methodo
 [![View Repo](https://img.shields.io/badge/GitHub-Web--VAPT-181717?style=flat-square&logo=github)](https://github.com/ramyaradjesh/Web---based-VAPT-)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ✍️ CTF Write-Ups on Medium
@@ -249,6 +251,18 @@ OSINT investigation room. **Reverse image search, metadata extraction, and geolo
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💣 Payload — TryHackMe
+`Payload Crafting` `Web Exploitation` `Bypassing Filters` `TryHackMe`
+
+Payload crafting and delivery room. Explores **filter bypass techniques, encoding strategies, and injection vectors** to successfully deliver payloads against hardened web targets.
+
+[![Read Write-Up](https://img.shields.io/badge/Read%20Write--Up%20→-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ramya15112000/payload-tryhackme-ramya-radjesh-9f6021cd1a56)
+
+</td>
+</tr>
 </table>
 
 <div align="center">
@@ -284,7 +298,7 @@ Python · Bash
 ### 🇫🇷 MS Computer Security
 **EPITA** — École Pour l'Informatique et les Techniques Avancées &nbsp;·&nbsp; Paris, France
 
-![Duration](https://img.shields.io/badge/Sept%202022%20–%20April%202025-0077B5?style=flat-square)
+![Duration](https://img.shields.io/badge/Sept%202022%20–%20April%202025-7C3AED?style=flat-square)
 
 
 </td>
@@ -295,7 +309,7 @@ Python · Bash
 ### 🇮🇳 B.Tech Computer Science Engineering
 **Sri Manakula Vinayagar Engineering College** &nbsp;·&nbsp; Puducherry, India
 
-![Duration](https://img.shields.io/badge/Aug%202018%20–%20April%202022-00e5a0?style=flat-square)
+![Duration](https://img.shields.io/badge/Aug%202018%20–%20April%202022-38BDF8?style=flat-square)
 
 </td>
 </tr>
@@ -330,7 +344,7 @@ SOC Analyst L1 &nbsp;·&nbsp; Cybersecurity Analyst &nbsp;·&nbsp; Network Engin
 ---
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00e5a0&height=120&section=footer&text=🔐+Securing+systems+·+Detecting+threats+·+Learning+daily&fontSize=14&fontColor=04080f&fontAlignY=65" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&text=🔐+Securing+systems+·+Detecting+threats+·+Learning+daily&fontSize=14&fontColor=e0d7ff&fontAlignY=65" alt="footer"/>
 
 <div align="center">
 
